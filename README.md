@@ -1,2 +1,12 @@
 # go-local-graph
-An terminal based graphical view of markdown notes (similar to the graph in obsidian)
+
+A terminal based graphical view of markdown notes (similar to the graph in obsidian)
+
+
+
+## Usage
+
+Modes: 
+- Search
+- Filter
+- Graph
